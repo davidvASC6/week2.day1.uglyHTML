@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(53,53,53);
+    color:whitesmoke;
+}
+header{
+    text-align: center;
+    font-family: cursive;
+    font-size: 72px;
+}
+
+.top{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 26px;
+}
+
+.watch_description{
+    margin: justify;
+    margin: right 5px;
+}
+
+.text{
+    margin: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    border: solid #FDEFA6;
+    background-color: #1A1818
+}
+
+#watches2 {
+    float: left;
+    max-width: 200px;
+    max-height: 200px;
+    margin: 10px;
+
+}
+
+#watches3 {
+    float: left;
+    max-width: 200px;
+    max-height: 200px;
+    margin: 10px;
+
+}
+
+#watches4 {
+    float: left;
+    max-width: 200px;
+    max-height: 200px;
+    margin: 25px;
+
+}
+
+footer{
+    text-align: center;
+}
